@@ -1,0 +1,6 @@
+version: v1.0
+name: myapp
+vcs_server: github
+repo: bnjjj/test
+vcs_connection_type: ssh
+vcs_ssh_key: proj-ssh-test
