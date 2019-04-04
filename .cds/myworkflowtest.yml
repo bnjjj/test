@@ -1,4 +1,4 @@
-name: lastone
+name: myworkflowtest
 version: v1.0
 pipeline: root
 application: myapp
