@@ -1,4 +1,4 @@
-name: newtest
+name: ascode
 version: v1.0
 pipeline: root
 application: myapp
