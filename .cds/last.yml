@@ -1,4 +1,4 @@
-name: myworkflowtest
+name: last
 version: v1.0
 pipeline: root
 application: myapp
