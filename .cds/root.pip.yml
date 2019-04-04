@@ -1,0 +1,7 @@
+version: v1.0
+name: root
+jobs:
+- job: New Job
+  steps:
+  - script:
+    - echo "coucou"
