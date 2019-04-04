@@ -1,6 +1,0 @@
-name: testworkflow
-version: v1.0
-pipeline: root
-application: myapp
-metadata:
-  default_tags: git.branch,git.author
