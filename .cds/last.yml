@@ -1,6 +1,6 @@
 name: last
 version: v1.0
 pipeline: rootfail
-application: myapp
+application: myappfail
 metadata:
   default_tags: git.branch,git.author
