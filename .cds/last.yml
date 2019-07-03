@@ -1,6 +1,7 @@
 name: last
 version: v1.0
 pipeline: root
-application: myappfail
+application: myapp
+environment: fakeenv
 metadata:
   default_tags: git.branch,git.author
